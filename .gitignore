@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cmq/
 
 # Spyder project settings
 .spyderproject
